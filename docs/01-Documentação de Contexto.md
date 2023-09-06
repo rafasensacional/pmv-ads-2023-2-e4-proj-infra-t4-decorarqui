@@ -42,12 +42,29 @@ Os objetivos da solução ***decorArqui*** são:
 
 ## Justificativa
 
-Descreva a importância ou a motivação para trabalhar com esta aplicação que você escolheu. Indique as razões pelas quais você escolheu seus objetivos específicos ou as razões para aprofundar em certos aspectos do software.
+A criação do decorArqui, é motivada pelo desejo de atender às necessidades crescentes dos clientes, democratizar o design de interiores, aproveitar as tendências tecnológicas e tornar o processo de design mais eficiente e colaborativo. Acreditamos que nosso aplicativo será uma valiosa contribuição para o setor e ainda ajudará as pessoas a transformar seus espaços em ambientes funcionais, esteticamente agradáveis e sustentáveis.
 
-O grupo de trabalho pode fazer uso de questionários, entrevistas e dados estatísticos, que podem ser apresentados, com o objetivo de esclarecer detalhes do problema que será abordado pelo grupo.
+O mercado de Decoração e Design de Interiores é uma indústria em constante evolução e crescimento. À medida que as pessoas se tornam mais conscientes da importância do ambiente em que vivem e trabalham, a demanda por serviços de design de interiores aumentou substancialmente. A criação deste aplicativo é motivada por diversas razões importantes e oportunidades significativas dentro deste setor em expansão. 
 
-> **Links Úteis**:
-> - [Como montar a justificativa](https://guiadamonografia.com.br/como-montar-justificativa-do-tcc/)
+Elencamos abaixo aspecotos importantes para o uso do aplicativo, dentro de um projeto de Design ou de Arquitetura:
+
+1. Melhoria do Ambiente de Vida:
+Um profissional de Design de Interiores desempenha um papel crucial na melhoria do ambiente de vida das pessoas. Eles têm a expertise necessária para transformar espaços comuns em lugares funcionais, confortáveis e visualmente atraentes. Isso não apenas aumenta o conforto dos moradores, mas também promove o bem-estar e a qualidade de vida.
+
+2. Maximização do Espaço:
+Em residências, muitas vezes é necessário otimizar o espaço disponível, especialmente em áreas urbanas onde o espaço é limitado. Um designer de interiores é treinado para aproveitar ao máximo cada centímetro quadrado, garantindo que o espaço seja utilizado de forma eficiente e que atenda às necessidades dos moradores.
+
+3. Economia de Tempo e Dinheiro:
+Contratar um designer de interiores pode economizar tempo e dinheiro a longo prazo. Eles têm conhecimento sobre materiais, fornecedores e custos, o que pode ajudar os clientes a evitar escolhas caras e erros dispendiosos. Além disso, um projeto bem planejado e executado pode aumentar o valor de revenda de uma propriedade. Um estudo conduzido pela Houzz em 2020 mostrou que 87% dos proprietários que contrataram um designer de interiores ficaram satisfeitos com o resultado final de seus projetos. A satisfação do cliente não apenas leva a avaliações positivas e recomendações, mas também pode resultar em oportunidades de trabalho repetido e referências valiosas.
+
+4. Melhoria do Valor da Propriedade:
+
+De acordo com a National Association of Realtors (NAR) dos Estados Unidos, em 2019, 22% dos compradores de casas disseram estar dispostos a pagar mais por uma casa com um design de interiores bem feito.
+A NAR também relatou que casas com design de interiores atraente e bem-cuidado geralmente vendem mais rápido e com maior valor de venda.
+
+5. Soluções Personalizadas:
+Cada projeto residencial é único, com suas próprias necessidades e desafios específicos. Um designer de interiores personaliza cada projeto para atender às preferências e estilo de vida dos clientes. Eles ouvem as necessidades do cliente, criam conceitos e planos sob medida e acompanham a execução para garantir que a visão do cliente seja realizada.
+
 
 ## Público-Alvo
 
