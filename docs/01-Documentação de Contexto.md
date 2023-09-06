@@ -58,9 +58,7 @@ Em residências, muitas vezes é necessário otimizar o espaço disponível, esp
 Contratar um designer de interiores pode economizar tempo e dinheiro a longo prazo. Eles têm conhecimento sobre materiais, fornecedores e custos, o que pode ajudar os clientes a evitar escolhas caras e erros dispendiosos. Além disso, um projeto bem planejado e executado pode aumentar o valor de revenda de uma propriedade. Um estudo conduzido pela Houzz em 2020 mostrou que 87% dos proprietários que contrataram um designer de interiores ficaram satisfeitos com o resultado final de seus projetos. A satisfação do cliente não apenas leva a avaliações positivas e recomendações, mas também pode resultar em oportunidades de trabalho repetido e referências valiosas.
 
 4. Melhoria do Valor da Propriedade:
-
-De acordo com a National Association of Realtors (NAR) dos Estados Unidos, em 2019, 22% dos compradores de casas disseram estar dispostos a pagar mais por uma casa com um design de interiores bem feito.
-A NAR também relatou que casas com design de interiores atraente e bem-cuidado geralmente vendem mais rápido e com maior valor de venda.
+De acordo com a National Association of Realtors (NAR) dos Estados Unidos, em 2019, 22% dos compradores de casas disseram estar dispostos a pagar mais por uma casa com um design de interiores bem feito. A NAR também relatou que casas com design de interiores atraente e bem-cuidado geralmente vendem mais rápido e com maior valor de venda.
 
 5. Soluções Personalizadas:
 Cada projeto residencial é único, com suas próprias necessidades e desafios específicos. Um designer de interiores personaliza cada projeto para atender às preferências e estilo de vida dos clientes. Eles ouvem as necessidades do cliente, criam conceitos e planos sob medida e acompanham a execução para garantir que a visão do cliente seja realizada.
